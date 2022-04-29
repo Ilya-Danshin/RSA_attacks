@@ -7,7 +7,7 @@ from generate_parameters.generate_parameters import GenerateParameters
 def alg():
     while True:
         n = int(input("Alg:\n\
-            1. P-1: common module attack\n\
+            1. P-1: Common module attack\n\
             2. P-2: Wiener's attack\n\
             3. P-3: Special public parameters attack\n\
             4. P-4: Generate RSA parameters\n\
